@@ -1,0 +1,6 @@
+Invoking command in '/home/jagan/ip_ws/build/mycobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jagan/ip_ws/src/mycobot_ros2/mycobot_description -DCMAKE_INSTALL_PREFIX=/home/jagan/ip_ws/install/mycobot_description
+Invoked command in '/home/jagan/ip_ws/build/mycobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jagan/ip_ws/src/mycobot_ros2/mycobot_description -DCMAKE_INSTALL_PREFIX=/home/jagan/ip_ws/install/mycobot_description
+Invoking command in '/home/jagan/ip_ws/build/mycobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jagan/ip_ws/build/mycobot_description -- -j4 -l4
+Invoked command in '/home/jagan/ip_ws/build/mycobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jagan/ip_ws/build/mycobot_description -- -j4 -l4
+Invoking command in '/home/jagan/ip_ws/build/mycobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jagan/ip_ws/build/mycobot_description
+Invoked command in '/home/jagan/ip_ws/build/mycobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jagan/ip_ws/build/mycobot_description
